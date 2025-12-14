@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gibiiii
 - 👀 I’m interested in ... comics and action figures. Go figure.
 - 🌱 I’m currently learning ... how to do nothing.
-- 💞️ I’m looking to collaborate on ... nothing. You're born alone and you die alone.
+- 💞️ I’m looking to collaborate on ... anything AI related.
 - 📫 How to reach me ... Don't. I'll reach you if necessary.
 
 ^All of the above is called humor. The truth is we as a society can't exist without being interested in something, willing to learn about it, collaborating with others to expand our knowledge, and
