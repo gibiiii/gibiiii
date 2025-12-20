@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @gibiiii
-- 👀 I’m interested in ... comics and action figures. Go figure.
-- 🌱 I’m currently learning ... how to do nothing.
-- 💞️ I’m looking to collaborate on ... anything AI related.
-- 📫 How to reach me ... Don't. I'll reach you if necessary.
+👋 Hi, I’m @gibiiii
 
-^All of the above is called humor. The truth is we as a society can't exist without being interested in something, willing to learn about it, collaborating with others to expand our knowledge, and
-you can always @ me. Human interaction is what drives us forward.
+👀 I’m interested in building things that actually work — automation, APIs, AI systems.
 
-<!---
-gibiiii/gibiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning and sharing how to apply AI and automation in practical, real-world ways.
+
+💞️ I’m looking to collaborate on AI, automation, integration projects, or anything that blends technology with real impact.
+
+📫 How to reach me: You can always @ me here. Good ideas tend to find their way to the right conversations.
