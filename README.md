@@ -1,6 +1,6 @@
 👋 Hi, I’m @gibiiii
 
-👀 I’m interested in building things that actually work — automation, APIs, AI systems.
+👀 I’m interested in building things that actually work with automation, APIs and AI systems.
 
 🌱 I’m currently learning and sharing how to apply AI and automation in practical, real-world ways.
 
